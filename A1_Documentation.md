@@ -199,5 +199,5 @@ This agreement sets out how our team works together on the Accessibility Complia
 ## **Repository & Workspace Evidence**
 The project workspace is a private GitHub repository that only team members and the instructor can access. It holds both the codebase and the documentation, so every decision and change is tracked and attributable.
 
-Repository: https://github.com/PurabPriyani/RAMP/tree/main
+Repository: [RAMP GitHub](https://github.com/PurabPriyani/RAMP/tree/main)  
 Access: Private; team members added as collaborators with write access; instructor invited as a collaborator/viewer.
